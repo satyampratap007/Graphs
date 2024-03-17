@@ -1,0 +1,26 @@
+Nodes- Where actual dataset lies
+Edges - Relationship between nodes
+
+All tres are graphs but vice versa is not correct
+
+graphs may or may not contain cycles
+
+Cyclic - contains cycles
+Acyclic-  not contains cycles
+
+directed - which has direction
+Undirected - which donot contain direction
+
+All trees are directed and acyclic
+
+Declare Weight/Cost in a graphs is called directed graphs and vice versa is termed as unweighted Graph
+
+Connectivity
+
+A graph may or may not contains connected component 
+But disconnected component together can be termed as Graph and more precisely Disconected Graphs
+
+Dense - let suppose A graph may contains more number of edges than nodes then it can be called as Dense Graph.
+
+Where as,
+Sparse - A graph which has many more entity but not connected to each other then it is callled  as Sparse graph.
